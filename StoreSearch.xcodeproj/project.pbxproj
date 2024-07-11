@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7077536E2C3F407300A29EC3 /* LoadingCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7077536D2C3F407300A29EC3 /* LoadingCell.xib */; };
 		70C2305F2C34E4300022B0CD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70C2305E2C34E4300022B0CD /* AppDelegate.swift */; };
 		70C230612C34E4300022B0CD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70C230602C34E4300022B0CD /* SceneDelegate.swift */; };
 		70C230632C34E4300022B0CD /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70C230622C34E4300022B0CD /* SearchViewController.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7077536D2C3F407300A29EC3 /* LoadingCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LoadingCell.xib; sourceTree = "<group>"; };
 		70C2305B2C34E4300022B0CD /* StoreSearch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StoreSearch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		70C2305E2C34E4300022B0CD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		70C230602C34E4300022B0CD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -72,6 +74,7 @@
 				70D0749A2C36F7BE0056F24A /* SearchResult.swift */,
 				70D0749C2C374FDD0056F24A /* SearchResultCell.xib */,
 				70D0749E2C3762D70056F24A /* SearchResultCell.swift */,
+				7077536D2C3F407300A29EC3 /* LoadingCell.xib */,
 			);
 			path = StoreSearch;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 				70C230682C34E4320022B0CD /* Assets.xcassets in Resources */,
 				70C2306B2C34E4320022B0CD /* Base in Resources */,
 				70D0749D2C374FDD0056F24A /* SearchResultCell.xib in Resources */,
+				7077536E2C3F407300A29EC3 /* LoadingCell.xib in Resources */,
 				70C230662C34E4300022B0CD /* Base in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
